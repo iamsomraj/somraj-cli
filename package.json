@@ -1,0 +1,49 @@
+{
+  "name": "somraj",
+  "version": "0.0.0",
+  "description": "Somraj Mukherjee's portfolio, in your terminal. Run: npx somraj",
+  "type": "module",
+  "bin": {
+    "somraj": "bin/somraj.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "data"
+  ],
+  "scripts": {
+    "start": "node bin/somraj.js",
+    "sync": "node scripts/sync.js",
+    "preview": "node scripts/preview.js",
+    "format": "prettier --check .",
+    "format:fix": "prettier --write .",
+    "prepublishOnly": "npm run sync"
+  },
+  "engines": {
+    "node": ">=20.12"
+  },
+  "keywords": [
+    "somraj",
+    "portfolio",
+    "cli",
+    "business-card",
+    "npx"
+  ],
+  "author": "Somraj Mukherjee <iamsomraj@gmail.com> (https://portfolio-iamsomraj.vercel.app)",
+  "license": "MIT",
+  "homepage": "https://github.com/iamsomraj/somraj-cli#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsomraj/somraj-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamsomraj/somraj-cli/issues"
+  },
+  "dependencies": {
+    "@clack/prompts": "^1.8.1",
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  }
+}

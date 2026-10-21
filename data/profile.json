@@ -1,0 +1,247 @@
+{
+  "version": 1,
+  "name": "Somraj Mukherjee",
+  "role": "Frontend Engineer",
+  "location": "Pune, India",
+  "email": "iamsomraj@gmail.com",
+  "links": {
+    "website": "https://portfolio-iamsomraj.vercel.app",
+    "github": "https://github.com/iamsomraj",
+    "linkedin": "https://www.linkedin.com/in/iamsomraj/",
+    "twitter": "https://x.com/iSomraj"
+  },
+  "about": [
+    "I'm Somraj — a software engineer with 5+ years of experience building enterprise web apps with React, Vue, Node.js and Spring Boot.",
+    "Currently an Associate Director at UBS, modernising internal case-management and reporting tools.",
+    "I enjoy open source, shipping polished UIs, and writing about what I learn on the blog.",
+    "Open to frontend roles in Berlin and across Europe, and eligible for the EU Blue Card."
+  ],
+  "experience": [
+    {
+      "company": "UBS",
+      "title": "Associate Director",
+      "start": "2026-01-19",
+      "end": null,
+      "points": [
+        "Rebuilt report exports as async background jobs with status tracking and scheduled runs. 12-sheet Excel reports of 15,000+ rows that used to time out now download 85% faster.",
+        "Shipped 20+ case-management workflow features, including approvals, assessments, due dates and team permissions, with 80% code coverage from automated tests.",
+        "Helped migrate a legacy system to React and Spring Boot, building the backend APIs with shared data models and database migrations.",
+        "Made audit trails easier to read and filter through 8 audit and admin-data improvements, and added test, lint and CI checks across 4 repositories."
+      ],
+      "tech": [
+        "React",
+        "Typescript",
+        "React Query",
+        "React Context",
+        "Sass",
+        "Java",
+        "Spring Boot",
+        "Postgres"
+      ]
+    },
+    {
+      "company": "Securly",
+      "title": "Software Engineer",
+      "start": "2023-11-27",
+      "end": "2026-01-16",
+      "points": [
+        "Integrated Securly Pass with Securly Visitor, streamlining visitor management for 5,000+ schools and cutting manual check-in time by 30%.",
+        "Improved stability of the Securly Pass Dashboard and mobile app, cutting reported dashboard bugs by 90% and keeping the app above 99% crash-free.",
+        "Migrated legacy frontend system to a Vite-based build setup, reducing build time from 40 minutes to under 10 minutes, significantly boosting developer productivity."
+      ],
+      "tech": [
+        "Vue",
+        "React",
+        "Javascript",
+        "Vuex",
+        "Redux",
+        "Tailwind"
+      ]
+    },
+    {
+      "company": "Yocket",
+      "title": "Software Developer",
+      "start": "2022-03-22",
+      "end": "2023-11-20",
+      "points": [
+        "Developed a Home Page for Premium users, giving them one hub to track their progress and lifting engagement with premium services by 25%.",
+        "Worked on revamp of Application and Document Manager, involving Counsellors and Premium Users. This reduced TAT of Counsellor Tasks by 30%",
+        "Performed Integration with Third Party services for better assistance to Premium Users"
+      ],
+      "tech": [
+        "React",
+        "Vue",
+        "Vuex",
+        "Tailwind",
+        "Nuxt",
+        "Node",
+        "Knex",
+        "Postgres"
+      ]
+    },
+    {
+      "company": "Persistent Systems",
+      "title": "Software Engineer",
+      "start": "2020-12-16",
+      "end": "2022-03-22",
+      "points": [
+        "Developed responsive and dynamic user forms, cutting form load times by 20%.",
+        "Built a library of reusable components and utility functions, cutting development effort for new features by about 30%.",
+        "Conducted POC assessments to evaluate feasibility of advanced payment solutions."
+      ],
+      "tech": [
+        "React",
+        "React Hooks",
+        "Javascript",
+        "Redux",
+        "Tailwind"
+      ]
+    },
+    {
+      "company": "Girlscript Foundation",
+      "title": "Open Source Contributor",
+      "start": "2020-03-01",
+      "end": "2020-05-31",
+      "points": [
+        "Collaborated with cross-functional teams, mentors, and fellow contributors to seamlessly integrate new UI components.",
+        "Enhanced Redux store with additional modules for state management.",
+        "Developed Ovulation Calculator and Calendar app, offering a seamless and intuitive experience to track fertility and menstrual cycles.",
+        "Implemented Date Picker functionality and refactored other UI elements"
+      ],
+      "tech": [
+        "React",
+        "Material UI",
+        "React Hooks"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "group": "Language",
+      "items": [
+        "Typescript",
+        "Javascript",
+        "Java",
+        "HTML"
+      ]
+    },
+    {
+      "group": "Frontend",
+      "items": [
+        "React",
+        "NextJS",
+        "Vue",
+        "Nuxt",
+        "Redux",
+        "Vuex",
+        "React Query",
+        "Tailwind",
+        "Sass",
+        "Material UI",
+        "Bootstrap",
+        "Semantic UI",
+        "Electron"
+      ]
+    },
+    {
+      "group": "Backend & Database",
+      "items": [
+        "Node",
+        "Spring Boot",
+        "Postgres",
+        "Mongo DB",
+        "Knex",
+        "Objection"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "eCommerce",
+      "summary": "A simple eCommerce platform with complete user journey (Login & Registration). Admin Panel with all price, inventory details, product listing. Payment Gateway implementation using Paypal SDK.",
+      "url": "https://github.com/iamsomraj/MERN-Shopping-App",
+      "tech": [
+        "React",
+        "React Hooks",
+        "Mongo DB",
+        "Redux"
+      ]
+    },
+    {
+      "title": "Weather",
+      "summary": "A simple forecast viewer application for easy weather data retrieval using Open Weather API. Based on your location, you can check the weather. Even, using search, you can see the climate of any location.",
+      "url": "https://github.com/iamsomraj/React-Acko-Weather-App",
+      "tech": [
+        "React",
+        "Typescript",
+        "React Hooks",
+        "Tailwind"
+      ]
+    },
+    {
+      "title": "Social Media",
+      "summary": "An Instagram like application with support of Light & Dark modes. Users can create Posts, Like Posts! Instagram like Story feature for platform users. Custom full fledged Toast Message implementation for better experience.",
+      "url": "https://github.com/iamsomraj/SHARE-IT-social-media-application",
+      "tech": [
+        "Vue",
+        "Vuex",
+        "Nuxt",
+        "Tailwind"
+      ]
+    },
+    {
+      "title": "Task Planner Pro",
+      "summary": "A contemporary personal task manager. Enjoy Google SSO for seamless access. Organize tasks effortlessly with a user-friendly home page. Create, edit, and delete tasks with ease. Achieve productivity like never before.",
+      "url": "https://github.com/iamsomraj/task-planner",
+      "tech": [
+        "NextJS",
+        "React",
+        "Typescript"
+      ]
+    },
+    {
+      "title": "splitiphy",
+      "summary": "A modern full stack application that allows users to manage their expenses. It effortlessly split bills with friends and family. User-friendly. Flexible. Secure.",
+      "url": "https://github.com/iamsomraj/splitiphy",
+      "tech": [
+        "NextJS",
+        "Postgres",
+        "React",
+        "Tailwind",
+        "Typescript"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "title": "Why Your AI Agent Writes Bad Code (and How AGENTS.md Fixes It)",
+      "excerpt": "Keep AGENTS.md small, move the details into docs, and save one-off jobs for skills. Your AI agent gets less noise and writes better code.",
+      "date": "2026-10-21",
+      "url": "https://portfolio-iamsomraj.vercel.app/blogs/agents-md-claude-md-skills-ai-coding-agent"
+    },
+    {
+      "title": "Microfrontends in Simple Terms: Vue + React, Deployed on Vercel",
+      "excerpt": "Build two tiny apps, one in Vue and one in React, join them in the browser with Module Federation, and put both live on Vercel.",
+      "date": "2026-10-13",
+      "url": "https://portfolio-iamsomraj.vercel.app/blogs/microfrontends-vue-react-module-federation-vercel"
+    },
+    {
+      "title": "A Free Contact Form in Next.js with Server Actions and Nodemailer",
+      "excerpt": "Send contact form messages straight to your Gmail inbox. No paid service, no API route, and no CAPTCHA.",
+      "date": "2026-10-09",
+      "url": "https://portfolio-iamsomraj.vercel.app/blogs/free-nextjs-contact-form-server-actions-nodemailer"
+    },
+    {
+      "title": "Getting Started with Next.js 15: A Developer's Guide",
+      "excerpt": "Explore the powerful new features in Next.js 15 and learn how to build modern web applications with improved performance and developer experience.",
+      "date": "2025-08-20",
+      "url": "https://portfolio-iamsomraj.vercel.app/blogs/getting-started-with-nextjs-15"
+    },
+    {
+      "title": "Building Modern React Components: Patterns and Best Practices",
+      "excerpt": "Learn how to create scalable, maintainable React components using modern patterns, hooks, and TypeScript for better developer experience and performance.",
+      "date": "2025-05-28",
+      "url": "https://portfolio-iamsomraj.vercel.app/blogs/building-modern-react-components"
+    }
+  ]
+}
