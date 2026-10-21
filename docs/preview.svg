@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="616" viewBox="0 0 460 616" role="img" aria-label="npx somraj output: a business card and a menu">
+  <rect width="460" height="616" rx="10" fill="#09090b"/>
+  <rect x="0.5" y="0.5" width="459" height="615" rx="10" fill="none" stroke="#27272a"/>
+  <circle cx="22" cy="20" r="6" fill="#3f3f46"/>
+  <circle cx="42" cy="20" r="6" fill="#3f3f46"/>
+  <circle cx="62" cy="20" r="6" fill="#3f3f46"/>
+  <text x="230" y="24" fill="#71717a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" text-anchor="middle">npx somraj</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <text x="24" y="52" fill="#4ade80" textLength="8.4" lengthAdjust="spacingAndGlyphs">$</text>
+    <text x="40.8" y="52" fill="#e4e4e7" textLength="25.200000000000003" lengthAdjust="spacingAndGlyphs">npx</text>
+    <text x="74.4" y="52" fill="#e4e4e7" textLength="50.400000000000006" lengthAdjust="spacingAndGlyphs">somraj</text>
+    <text x="24" y="92" fill="#ffaa00" textLength="8.4" lengthAdjust="spacingAndGlyphs">+</text>
+    <line x1="32.4" y1="87" x2="427.2" y2="87" stroke="#71717a"/>
+    <text x="427.20000000000005" y="92" fill="#ffaa00" textLength="8.4" lengthAdjust="spacingAndGlyphs">+</text>
+    <line x1="28.2" y1="97" x2="28.2" y2="117" stroke="#71717a"/>
+    <line x1="431.40000000000003" y1="97" x2="431.40000000000003" y2="117" stroke="#71717a"/>
+    <line x1="28.2" y1="117" x2="28.2" y2="137" stroke="#71717a"/>
+    <text x="57.6" y="132" fill="#ffaa00" textLength="8.4" lengthAdjust="spacingAndGlyphs">§</text>
+    <text x="74.4" y="132" fill="#71717a" textLength="16.8" lengthAdjust="spacingAndGlyphs">00</text>
+    <text x="99.60000000000001" y="132" fill="#71717a" textLength="8.4" lengthAdjust="spacingAndGlyphs">—</text>
+    <text x="116.4" y="132" fill="#e4e4e7" font-weight="700" textLength="42" lengthAdjust="spacingAndGlyphs">HELLO</text>
+    <line x1="431.40000000000003" y1="117" x2="431.40000000000003" y2="137" stroke="#71717a"/>
+    <line x1="28.2" y1="137" x2="28.2" y2="157" stroke="#71717a"/>
+    <line x1="431.40000000000003" y1="137" x2="431.40000000000003" y2="157" stroke="#71717a"/>
+    <line x1="28.2" y1="157" x2="28.2" y2="177" stroke="#71717a"/>
+    <text x="57.6" y="172" fill="#e4e4e7" font-weight="700" textLength="50.400000000000006" lengthAdjust="spacingAndGlyphs">Somraj</text>
+    <text x="116.4" y="172" fill="#e4e4e7" font-weight="700" textLength="75.60000000000001" lengthAdjust="spacingAndGlyphs">Mukherjee</text>
+    <line x1="431.40000000000003" y1="157" x2="431.40000000000003" y2="177" stroke="#71717a"/>
+    <line x1="28.2" y1="177" x2="28.2" y2="197" stroke="#71717a"/>
+    <text x="57.6" y="192" fill="#e4e4e7" textLength="67.2" lengthAdjust="spacingAndGlyphs">Frontend</text>
+    <text x="133.2" y="192" fill="#e4e4e7" textLength="67.2" lengthAdjust="spacingAndGlyphs">Engineer</text>
+    <text x="208.8" y="192" fill="#71717a" textLength="8.4" lengthAdjust="spacingAndGlyphs">·</text>
+    <text x="225.60000000000002" y="192" fill="#e4e4e7" textLength="42" lengthAdjust="spacingAndGlyphs">Pune,</text>
+    <text x="276" y="192" fill="#e4e4e7" textLength="42" lengthAdjust="spacingAndGlyphs">India</text>
+    <line x1="431.40000000000003" y1="177" x2="431.40000000000003" y2="197" stroke="#71717a"/>
+    <line x1="28.2" y1="197" x2="28.2" y2="217" stroke="#71717a"/>
+    <line x1="431.40000000000003" y1="197" x2="431.40000000000003" y2="217" stroke="#71717a"/>
+    <line x1="28.2" y1="217" x2="28.2" y2="237" stroke="#71717a"/>
+    <text x="57.6" y="232" fill="#71717a" textLength="25.200000000000003" lengthAdjust="spacingAndGlyphs">web</text>
+    <text x="141.60000000000002" y="232" fill="#e4e4e7" textLength="252" lengthAdjust="spacingAndGlyphs">portfolio-iamsomraj.vercel.app</text>
+    <line x1="431.40000000000003" y1="217" x2="431.40000000000003" y2="237" stroke="#71717a"/>
+    <line x1="28.2" y1="237" x2="28.2" y2="257" stroke="#71717a"/>
+    <text x="57.6" y="252" fill="#71717a" textLength="50.400000000000006" lengthAdjust="spacingAndGlyphs">github</text>
+    <text x="141.60000000000002" y="252" fill="#e4e4e7" textLength="168" lengthAdjust="spacingAndGlyphs">github.com/iamsomraj</text>
+    <line x1="431.40000000000003" y1="237" x2="431.40000000000003" y2="257" stroke="#71717a"/>
+    <line x1="28.2" y1="257" x2="28.2" y2="277" stroke="#71717a"/>
+    <text x="57.6" y="272" fill="#71717a" textLength="67.2" lengthAdjust="spacingAndGlyphs">linkedin</text>
+    <text x="141.60000000000002" y="272" fill="#e4e4e7" textLength="210" lengthAdjust="spacingAndGlyphs">linkedin.com/in/iamsomraj</text>
+    <line x1="431.40000000000003" y1="257" x2="431.40000000000003" y2="277" stroke="#71717a"/>
+    <line x1="28.2" y1="277" x2="28.2" y2="297" stroke="#71717a"/>
+    <text x="57.6" y="292" fill="#71717a" textLength="8.4" lengthAdjust="spacingAndGlyphs">x</text>
+    <text x="141.60000000000002" y="292" fill="#e4e4e7" textLength="109.2" lengthAdjust="spacingAndGlyphs">x.com/iSomraj</text>
+    <line x1="431.40000000000003" y1="277" x2="431.40000000000003" y2="297" stroke="#71717a"/>
+    <line x1="28.2" y1="297" x2="28.2" y2="317" stroke="#71717a"/>
+    <text x="57.6" y="312" fill="#71717a" textLength="42" lengthAdjust="spacingAndGlyphs">email</text>
+    <text x="141.60000000000002" y="312" fill="#e4e4e7" textLength="159.6" lengthAdjust="spacingAndGlyphs">iamsomraj@gmail.com</text>
+    <line x1="431.40000000000003" y1="297" x2="431.40000000000003" y2="317" stroke="#71717a"/>
+    <line x1="28.2" y1="317" x2="28.2" y2="337" stroke="#71717a"/>
+    <line x1="431.40000000000003" y1="317" x2="431.40000000000003" y2="337" stroke="#71717a"/>
+    <line x1="28.2" y1="337" x2="28.2" y2="357" stroke="#71717a"/>
+    <text x="57.6" y="352" fill="#71717a" textLength="25.200000000000003" lengthAdjust="spacingAndGlyphs">run</text>
+    <text x="91.2" y="352" fill="#71717a" textLength="25.200000000000003" lengthAdjust="spacingAndGlyphs">npx</text>
+    <text x="124.80000000000001" y="352" fill="#71717a" textLength="50.400000000000006" lengthAdjust="spacingAndGlyphs">somraj</text>
+    <text x="183.6" y="352" fill="#71717a" textLength="25.200000000000003" lengthAdjust="spacingAndGlyphs">any</text>
+    <text x="217.20000000000002" y="352" fill="#71717a" textLength="33.6" lengthAdjust="spacingAndGlyphs">time</text>
+    <text x="259.20000000000005" y="352" fill="#71717a" textLength="16.8" lengthAdjust="spacingAndGlyphs">to</text>
+    <text x="284.40000000000003" y="352" fill="#71717a" textLength="25.200000000000003" lengthAdjust="spacingAndGlyphs">see</text>
+    <text x="318" y="352" fill="#71717a" textLength="33.6" lengthAdjust="spacingAndGlyphs">this</text>
+    <text x="360" y="352" fill="#71717a" textLength="42" lengthAdjust="spacingAndGlyphs">again</text>
+    <line x1="431.40000000000003" y1="337" x2="431.40000000000003" y2="357" stroke="#71717a"/>
+    <line x1="28.2" y1="357" x2="28.2" y2="377" stroke="#71717a"/>
+    <line x1="431.40000000000003" y1="357" x2="431.40000000000003" y2="377" stroke="#71717a"/>
+    <text x="24" y="392" fill="#ffaa00" textLength="8.4" lengthAdjust="spacingAndGlyphs">+</text>
+    <line x1="32.4" y1="387" x2="427.2" y2="387" stroke="#71717a"/>
+    <text x="427.20000000000005" y="392" fill="#ffaa00" textLength="8.4" lengthAdjust="spacingAndGlyphs">+</text>
+    <text x="24" y="432" fill="#22d3ee" textLength="8.4" lengthAdjust="spacingAndGlyphs">◆</text>
+    <text x="49.2" y="432" fill="#e4e4e7" textLength="33.6" lengthAdjust="spacingAndGlyphs">What</text>
+    <text x="91.2" y="432" fill="#e4e4e7" textLength="42" lengthAdjust="spacingAndGlyphs">would</text>
+    <text x="141.60000000000002" y="432" fill="#e4e4e7" textLength="25.200000000000003" lengthAdjust="spacingAndGlyphs">you</text>
+    <text x="175.20000000000002" y="432" fill="#e4e4e7" textLength="33.6" lengthAdjust="spacingAndGlyphs">like</text>
+    <text x="217.20000000000002" y="432" fill="#e4e4e7" textLength="16.8" lengthAdjust="spacingAndGlyphs">to</text>
+    <text x="242.4" y="432" fill="#e4e4e7" textLength="33.6" lengthAdjust="spacingAndGlyphs">see?</text>
+    <line x1="28.2" y1="437" x2="28.2" y2="457" stroke="#22d3ee"/>
+    <text x="49.2" y="452" fill="#4ade80" textLength="8.4" lengthAdjust="spacingAndGlyphs">●</text>
+    <text x="66" y="452" fill="#e4e4e7" textLength="42" lengthAdjust="spacingAndGlyphs">About</text>
+    <line x1="28.2" y1="457" x2="28.2" y2="477" stroke="#22d3ee"/>
+    <text x="49.2" y="472" fill="#71717a" textLength="8.4" lengthAdjust="spacingAndGlyphs">○</text>
+    <text x="66" y="472" fill="#71717a" textLength="84" lengthAdjust="spacingAndGlyphs">Experience</text>
+    <line x1="28.2" y1="477" x2="28.2" y2="497" stroke="#22d3ee"/>
+    <text x="49.2" y="492" fill="#71717a" textLength="8.4" lengthAdjust="spacingAndGlyphs">○</text>
+    <text x="66" y="492" fill="#71717a" textLength="50.400000000000006" lengthAdjust="spacingAndGlyphs">Skills</text>
+    <line x1="28.2" y1="497" x2="28.2" y2="517" stroke="#22d3ee"/>
+    <text x="49.2" y="512" fill="#71717a" textLength="8.4" lengthAdjust="spacingAndGlyphs">○</text>
+    <text x="66" y="512" fill="#71717a" textLength="67.2" lengthAdjust="spacingAndGlyphs">Projects</text>
+    <line x1="28.2" y1="517" x2="28.2" y2="537" stroke="#22d3ee"/>
+    <text x="49.2" y="532" fill="#71717a" textLength="8.4" lengthAdjust="spacingAndGlyphs">○</text>
+    <text x="66" y="532" fill="#71717a" textLength="50.400000000000006" lengthAdjust="spacingAndGlyphs">Latest</text>
+    <text x="124.80000000000001" y="532" fill="#71717a" textLength="42" lengthAdjust="spacingAndGlyphs">posts</text>
+    <line x1="28.2" y1="537" x2="28.2" y2="557" stroke="#22d3ee"/>
+    <text x="49.2" y="552" fill="#71717a" textLength="8.4" lengthAdjust="spacingAndGlyphs">○</text>
+    <text x="66" y="552" fill="#71717a" textLength="8.4" lengthAdjust="spacingAndGlyphs">…</text>
+    <text x="24" y="572" fill="#22d3ee" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+  </g>
+</svg>
