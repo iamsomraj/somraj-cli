@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.1
+
+[compare changes](https://github.com/iamsomraj/somraj-cli/compare/v1.0.0...v1.0.1)
+
+### 🩹 Fixes
+
+- Long tech and skill lists now wrap with each `·` at the end of a line, and project tech lists wrap too ([#6](https://github.com/iamsomraj/somraj-cli/pull/6))
+
 ## v1.0.0
 
 [compare changes](https://github.com/iamsomraj/somraj-cli/compare/f993e00...v1.0.0)
