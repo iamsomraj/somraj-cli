@@ -15,6 +15,8 @@ npx somraj
   <img src="./docs/preview.svg" alt="npx somraj prints a business card, then a menu" width="460">
 </p>
 
+**Blog post:** [I Put My Portfolio in the Terminal: npx somraj](https://portfolio-iamsomraj.vercel.app/blogs/npx-business-card-cli-portfolio), a short tour of how this works and how to build your own.
+
 ## What you get
 
 A business card with my role, location and links, then a menu you move through with the arrow keys:
