@@ -20,10 +20,21 @@ export const label = (index, title) =>
   )}`;
 
 // Wrap plain text to `max` columns. Later lines are prefixed with `indent`.
-export function wrap(text, max, indent = '') {
+export const wrap = (text, max, indent = '') =>
+  wrapWords(text.split(/\s+/), max, indent);
+
+// `React · Vue · Node`, wrapped so each `·` stays at the end of a line and
+// multi-word items like `React Query` never split.
+export const list = (items, max) =>
+  wrapWords(
+    items.map((item, i) => (i < items.length - 1 ? `${item} ·` : item)),
+    max,
+  );
+
+function wrapWords(words, max, indent = '') {
   const lines = [];
   let line = '';
-  for (const word of text.split(/\s+/)) {
+  for (const word of words) {
     if (line && visibleLength(`${line} ${word}`) > max) {
       lines.push(line);
       line = word;

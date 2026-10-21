@@ -1,4 +1,4 @@
-import { brand, label, muted, strong, width, wrap } from './style.js';
+import { brand, label, list, muted, strong, width, wrap } from './style.js';
 
 const formatDate = (date) =>
   new Date(date).toLocaleDateString('en-GB', {
@@ -22,7 +22,7 @@ export function experience(profile) {
       `${strong(job.company)} ${muted('—')} ${job.title}`,
       muted(`${formatDate(job.start)} – ${end}`),
       ...job.points.map(bullet),
-      muted(wrap(job.tech.join(' · '), width())),
+      muted(list(job.tech, width())),
     ].join('\n');
   });
   return [label(2, 'experience'), ...jobs].join('\n\n');
@@ -30,8 +30,7 @@ export function experience(profile) {
 
 export function skills(profile) {
   const groups = profile.skills.map(
-    (group) =>
-      `${strong(group.group)}\n${wrap(group.items.join(' · '), width())}`,
+    (group) => `${strong(group.group)}\n${list(group.items, width())}`,
   );
   return [label(3, 'skills'), ...groups].join('\n\n');
 }
@@ -41,7 +40,7 @@ export function projects(profile) {
     [
       strong(project.title),
       wrap(project.summary, width()),
-      `${muted(project.tech.join(' · '))}`,
+      muted(list(project.tech, width())),
       brand(project.url),
     ].join('\n'),
   );
